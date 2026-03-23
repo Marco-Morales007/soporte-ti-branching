@@ -10,9 +10,7 @@ Verificar acceso a red
 
 # soporte-ti-branching# manual de soporte TI
  Documentacion basica para resolver incidencias comunes
-Alumno 1
-Problemas de red
-
+## Alumno 1:
 
 ##  Problemas de red
 
