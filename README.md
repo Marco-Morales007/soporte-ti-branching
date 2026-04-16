@@ -1,12 +1,20 @@
+HEAD
+## Problemas de usuario
+
+1 Restablecer contraseña
+2 Revisar permisos
+Verificar acceso a red
+
 # soporte-ti-branching# manual de soporte TI
  Documentacion basica para resolver incidencias comunes
-Alumno 1
 
+## Alumno 1:
 
-Alumno 2:
+##  Problemas de red
 
-Problemas de impresora
+Si no hay conexión:
 
-1 Revisar conexión USB
-2 Verificar drivers
-3 Reiniciar spooler
+1.  Verificar cable
+2.  Reiniciar router
+3.  Ejecutar `ipconfig`
+
