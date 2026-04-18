@@ -1,20 +1,36 @@
-HEAD
-## Problemas de usuario
 
-1 Restablecer contraseña
-2 Revisar permisos
-Verificar acceso a red
+# Help Desk | Soporte Técnico
 
-# soporte-ti-branching# manual de soporte TI
- Documentacion basica para resolver incidencias comunes
+Repositorio del área de **Soporte TI (Help Desk)** que centraliza documentación, procesos, scripts y base de conocimiento para la gestión eficiente de incidencias y solicitudes de servicio.Nuestro equipo esta conformado por:
+- Hernandez Velasco Dayana
+- Amy Lisette Garcia Perez
+- Marco Morales
+Este equipo esta enfocado en la resolucion efectiva de problemas y atencion de usuario.
+---
 
-## Alumno 1:
+## Objetivo
 
-##  Problemas de red
+Brindar soporte técnico ágil, eficiente y orientado al usuario, garantizando la continuidad operativa mediante la resolución de incidencias y la mejora continua del servicio.
 
-Si no hay conexión:
+---
 
-1.  Verificar cable
-2.  Reiniciar router
-3.  Ejecutar `ipconfig`
+## Contenido del repositorio
+
+El equipo de Help Desk cubre:
+
+- Soporte de primer nivel (diagnóstico y resolución inicial)
+- Escalamiento a niveles superiores (Nivel 2 / Nivel 3)
+- Soporte a sistemas operativos (Windows, macOS, Linux)
+- Gestión de usuarios y accesos 
+- Soporte de red y conectividad
+- Instalación y configuración de software y hardware
+- Soporte por medio de correo, videollamadas y llamadas
+- Gestión de tickets
+
+---
+
+##  Link a reportes generados
+[Presentación del Help Desk](https://docs.google.com/presentation/d/1ctrROOXwhKlbCrF1WY-7YGcIsp90DJdDcxd-jSHz21Q/edit?slide=id.g3dff4e1e2f1_0_6#slide=id.g3dff4e1e2f1_0_6)
+
+>>>>>>> soporteL3
 
