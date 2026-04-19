@@ -1,11 +1,11 @@
 
 # Help Desk | Soporte Técnico
 
-Repositorio del área de **Soporte TI (Help Desk)** que centraliza documentación, procesos, scripts y base de conocimiento para la gestión eficiente de incidencias y solicitudes de servicio.Nuestro equipo esta conformado por:
-- Hernandez Velasco Dayana
+Repositorio del área de **Soporte TI (Help Desk)** que centraliza documentación, procesos, scripts y base de conocimiento para la gestión eficiente de incidencias y solicitudes de servicio.Este equipo esta enfocado en la resolucion efectiva de problemas y atencion de usuario.Nuestro equipo esta conformado por:
+- Dayana Areli Hernandez Velasco
 - Amy Lisette Garcia Perez
-- Marco Morales
-Este equipo esta enfocado en la resolucion efectiva de problemas y atencion de usuario.
+- Marco Antonio Morales Suarez
+
 ---
 
 ## Objetivo
